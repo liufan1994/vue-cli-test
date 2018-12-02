@@ -1,4 +1,4 @@
-# lianxi
+# liufan-lianxi
 
 > A Vue.js project
 
