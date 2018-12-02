@@ -1,6 +1,6 @@
 # lianxi
 
-> A Vue.js projectssss
+> A Vue.js project
 
 ## Build Setup
 
