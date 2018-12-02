@@ -1,10 +1,10 @@
 # lianxi
 
-> A Vue.js project
+> A Vue.js projects
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
